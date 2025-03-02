@@ -94,3 +94,4 @@ function associarConta() {
 }
 
 window.onload = atualizarSaldo;
+localStorage.clear()
