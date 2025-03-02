@@ -36,3 +36,5 @@ function carregarHistorico() {
 
 // Atualiza histórico ao carregar a página
 window.onload = carregarHistorico;
+
+localStorage.clear()
